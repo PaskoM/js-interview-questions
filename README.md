@@ -62,3 +62,5 @@ for (i = 0; i < 5; i++) {
 ## Explain the difference between debouncing and throttling
 
 ## Explain the concept of dependency injection
+
+## What practices do you know to fix circular dependencies?
